@@ -1,2 +1,4 @@
-# tic-tac-react
-official react guide
+# React + Vite
+
+-> npm install
+-> npm run dev
